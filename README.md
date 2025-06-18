@@ -2,7 +2,7 @@
 <!-- contributor program logo -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zama-ai/bounty-and-grant-program/assets/157474013/b5d12b77-4162-43ac-92c1-59ccdda7df35">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zama-ai/bounty-and-grant-program/assets/157474013/1756f49e-9db5-4fcd-a664-5d83809f51f4">
+  <source media="(prefers-color-scheme: light)" srfcset="https://github.com/zama-ai/bounty-and-grant-program/assets/157474013/1756f49e-9db5-4fcd-a664-5d83809f51f4">
   <img alt="Zama Bounty Program">
 </picture>
 </p>
